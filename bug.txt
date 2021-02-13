@@ -1,7 +1,1 @@
- 
-
-hello
-
-new and old bug
-
-new bug old
+ new bug old
